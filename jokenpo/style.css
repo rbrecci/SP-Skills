@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+main{
+    display: flex;
+}
+
+section{
+    width: 33vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button{
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+
+#pedra{ background-color: red; }
+#papel{ background-color: blue; }
+#tesoura{ background-color: green; }
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#partida{
+    display: flex;
+    gap: 20px;
+}
