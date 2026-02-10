@@ -1,0 +1,156 @@
+body {
+  font-family: Arial;
+  background: #f0f0f0;
+  padding: 20px;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.welcome {
+  background: #e0e0e0;
+  padding: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.menu-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.menu-item {
+  border: 1px solid #ccc;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  background: white;
+  flex: 1;
+  min-width: 200px;
+}
+
+.menu-item:hover {
+  background: #f0f0f0;
+}
+
+.btn {
+  padding: 8px 15px;
+  text-decoration: none;
+  border: 1px solid #ccc;
+  background: white;
+  color: black;
+  margin: 3px;
+  display: inline-block;
+}
+
+.btn:hover {
+  background: #f0f0f0;
+}
+
+table {
+  width: 100%;
+  border: 1px solid #ccc;
+  margin: 15px 0;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background: #e0e0e0;
+}
+
+.estoque-baixo {
+  background: #ffe0e0;
+}
+
+.alert {
+  background: #ffe0e0;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ffcccc;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 3px;
+  font-weight: bold;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+.form-row {
+  display: flex;
+  gap: 10px;
+}
+
+.form-row .form-group {
+  flex: 1;
+}
+
+.entrada {
+  color: green;
+  font-weight: bold;
+}
+
+.saida {
+  color: red;
+  font-weight: bold;
+}
+
+/* Login */
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 0;
+}
+
+.login-container {
+  background: white;
+  padding: 30px;
+  border: 1px solid #ccc;
+  width: 300px;
+}
+
+.login-container button {
+  width: 100%;
+  padding: 10px;
+  background: white;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.erro {
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+}
