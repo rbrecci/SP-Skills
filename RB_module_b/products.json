@@ -1,0 +1,716 @@
+{
+    "0": [
+        {
+            "GTIN": "37900123458228",
+            "name": "French Herb and Lemon Infused Olive Oil",
+            "description": "Add a touch of freshness to your dishes with our French herb and lemon infused olive oil, featuring a blend of fragrant herbs and citrus.",
+            "frenchDescription": "Ajoutez une touche de fra\u00eecheur \u00e0 vos plats avec notre huile d'olive infus\u00e9e aux herbes fran\u00e7aises et au citron, compos\u00e9e d'un m\u00e9lange d'herbes parfum\u00e9es et d'agrumes.",
+            "frenchName": "Huile d'olive infus\u00e9e aux herbes et au citron fran\u00e7ais",
+            "brandName": "Huiles de France",
+            "originCountry": "France",
+            "weight": "0.5",
+            "netWeight": "0.4",
+            "unitWeight": "g"
+        }
+    ],
+    "1": [
+        {
+            "GTIN": "37900123458345",
+            "name": "Artisanal French Quiche Lorraine Tartlets",
+            "description": "Indulge in the rich flavors of France with our artisanal quiche Lorraine tartlets, featuring a blend of creamy eggs and cheese.",
+            "frenchDescription": "Laissez-vous tenter par les riches saveurs de la France avec nos tartelettes artisanales \u00e0 la quiche lorraine, compos\u00e9es d'un m\u00e9lange d'\u0153ufs cr\u00e9meux et de fromage.",
+            "frenchName": "Tartelettes de quiche lorraine artisanale fran\u00e7aise",
+            "brandName": "P\u00e2tisseries Artisanales",
+            "originCountry": "France",
+            "weight": "1.2",
+            "netWeight": "0.8",
+            "unitWeight": "g"
+        }
+    ],
+    "2": [
+        {
+            "GTIN": "37900123458462",
+            "name": "French Lavender and Honey Body Scrub",
+            "description": "Exfoliate your skin with our French lavender and honey body scrub, featuring a soothing blend of fragrant herbs and citrus.",
+            "frenchDescription": "Exfoliez votre peau avec notre gommage corporel \u00e0 la lavande fran\u00e7aise et au miel, compos\u00e9 d'un m\u00e9lange apaisant d'herbes parfum\u00e9es et d'agrumes.",
+            "frenchName": "Exfoliant corporel \u00e0 la lavande et au miel fran\u00e7ais",
+            "brandName": "Soins Corporels de France",
+            "originCountry": "France",
+            "weight": "0.6",
+            "netWeight": "0.5",
+            "unitWeight": "g"
+        }
+    ],
+    "3": [
+        {
+            "GTIN": "37900123458579",
+            "name": "French Apple and Cinnamon Crumble Mix",
+            "description": "Warm up with our French apple and cinnamon crumble mix, featuring a blend of fresh spices perfect for a comforting dessert.",
+            "frenchDescription": "R\u00e9chauffez-vous avec notre m\u00e9lange de crumble aux pommes et \u00e0 la cannelle fran\u00e7aise, compos\u00e9 d'un m\u00e9lange d'\u00e9pices fra\u00eeches, parfait pour un dessert r\u00e9confortant.",
+            "frenchName": "M\u00e9lange de crumble aux pommes et au cannelle fran\u00e7ais",
+            "brandName": "Dessert\u00e8s de France",
+            "originCountry": "France",
+            "weight": "0.8",
+            "netWeight": "0.6",
+            "unitWeight": "g"
+        }
+    ],
+    "4": [
+        {
+            "GTIN": "37900123458696",
+            "name": "Artisanal French Creamy Garlic Dip",
+            "description": "Savor the rich flavors of France with our artisanal creamy garlic dip, featuring a blend of fresh herbs and spices.",
+            "frenchDescription": "Savourez les riches saveurs de la France avec notre trempette cr\u00e9meuse \u00e0 l'ail artisanale, compos\u00e9e d'un m\u00e9lange d'herbes fra\u00eeches et d'\u00e9pices.",
+            "frenchName": "M\u00e9lange de dip aux aromes et \u00e0 la cr\u00e8me fran\u00e7aise",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "0.6",
+            "netWeight": "0.5",
+            "unitWeight": "g"
+        }
+    ],
+    "5": [
+        {
+            "GTIN": "37900123458713",
+            "name": "French Berry Jam",
+            "description": "Enjoy the sweetness of France with our French berry jam, featuring a blend of juicy fruits.",
+            "frenchDescription": "Appr\u00e9ciez la douceur de la France avec notre confiture de baies fran\u00e7aises, compos\u00e9e d'un m\u00e9lange de fruits juteux.",
+            "frenchName": "Confiture de fruits rouges fran\u00e7ais",
+            "brandName": "Jams de France",
+            "originCountry": "France",
+            "weight": "0.7",
+            "netWeight": "0.55",
+            "unitWeight": "g"
+        }
+    ],
+    "6": [
+        {
+            "GTIN": "37900123458830",
+            "name": "Artisanal French Feta Cheese",
+            "description": "Savor the rich flavors of Greece in France with our artisanal feta cheese, featuring a blend of creamy milk and herbs.",
+            "frenchDescription": "Savourez les riches saveurs de la Gr\u00e8ce en France avec notre fromage feta artisanal, compos\u00e9 d'un m\u00e9lange de lait cr\u00e9meux et d'herbes.",
+            "frenchName": "Fromage feta artisanale fran\u00e7ais",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "7": [
+        {
+            "GTIN": "37900123458947",
+            "name": "French Herb and Garlic Sausages",
+            "description": "Indulge in the rich flavors of France with our French herb and garlic sausages, featuring a blend of fragrant herbs and spices.",
+            "frenchDescription": "Laissez-vous tenter par les riches saveurs de la France avec nos saucisses fran\u00e7aises aux herbes et \u00e0 l'ail, compos\u00e9es d'un m\u00e9lange d'herbes parfum\u00e9es et d'\u00e9pices.",
+            "frenchName": "Saucisses aux herbes et \u00e0 l'ail fran\u00e7ais",
+            "brandName": "Charcuterie de France",
+            "originCountry": "France",
+            "weight": "1.2",
+            "netWeight": "0.9",
+            "unitWeight": "g"
+        }
+    ],
+    "8": [
+        {
+            "GTIN": "37900123459064",
+            "name": "French Apple Tart",
+            "description": "Enjoy the sweetness of France with our French apple tart, featuring a blend of juicy fruits and creamy pastry.",
+            "frenchDescription": "Savourez la douceur de la France avec notre tarte aux pommes fran\u00e7aise, compos\u00e9e d'un m\u00e9lange de fruits juteux et de p\u00e2tisserie cr\u00e9meuse.",
+            "frenchName": "Tarte tatin aux pommes fran\u00e7aise",
+            "brandName": "P\u00e2tisseries Artisanales",
+            "originCountry": "France",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "9": [
+        {
+            "GTIN": "37900123459171",
+            "name": "Artisanal French Cream Cheese",
+            "description": "Savor the rich flavors of France with our artisanal cream cheese, featuring a blend of creamy milk and herbs.",
+            "frenchDescription": "Savourez les riches saveurs de la France avec notre fromage \u00e0 la cr\u00e8me artisanal, compos\u00e9 d'un m\u00e9lange de lait cr\u00e9meux et d'herbes.",
+            "frenchName": "Fromage \u00e0 la cr\u00e8me artisanale fran\u00e7ais",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "0.6",
+            "netWeight": "0.5",
+            "unitWeight": "g"
+        }
+    ],
+    "10": [
+        {
+            "GTIN": "37900123459288",
+            "name": "French Herb and Lemon Marmalade",
+            "description": "Enjoy the sweetness of France with our French herb and lemon marmalade, featuring a blend of fragrant herbs and citrus.",
+            "frenchDescription": "Savourez la douceur de la France avec notre marmelade d'herbes et de citron fran\u00e7aise, compos\u00e9e d'un m\u00e9lange d'herbes parfum\u00e9es et d'agrumes.",
+            "frenchName": "Marmelade aux herbes et au citron fran\u00e7ais",
+            "brandName": "Jams de France",
+            "originCountry": "France",
+            "weight": "0.7",
+            "netWeight": "0.55",
+            "unitWeight": "g"
+        }
+    ],
+    "11": [
+        {
+            "GTIN": "37900123459395",
+            "name": "Artisanal French Goat Cheese",
+            "description": "Savor the rich flavors of France with our artisanal goat cheese, featuring a blend of creamy milk and herbs.",
+            "frenchDescription": "Savourez les riches saveurs de la France avec notre fromage de ch\u00e8vre artisanal, compos\u00e9 d'un m\u00e9lange de lait cr\u00e9meux et d'herbes.",
+            "frenchName": "Fromage ch\u00e8vre artisanale fran\u00e7ais",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "12": [
+        {
+            "GTIN": "37900123459412",
+            "name": "French Apple Cider",
+            "description": "Enjoy the sweetness of France with our French apple cider, featuring a blend of juicy fruits and spices.",
+            "frenchDescription": "Savourez la douceur de la France avec notre cidre de pomme fran\u00e7ais, compos\u00e9 d'un m\u00e9lange de fruits juteux et d'\u00e9pices.",
+            "frenchName": "Cidre aux pommes fran\u00e7ais",
+            "brandName": "Bieres de France",
+            "originCountry": "France",
+            "weight": "0.8",
+            "netWeight": "0.6",
+            "unitWeight": "g"
+        }
+    ],
+    "13": [
+        {
+            "GTIN": "37900123459529",
+            "name": "Artisanal French Creamy Cheese Dip",
+            "description": "Savor the rich flavors of France with our artisanal creamy cheese dip, featuring a blend of fresh herbs and spices.",
+            "frenchDescription": "Savourez les riches saveurs de la France avec notre trempette au fromage cr\u00e9meuse artisanale, compos\u00e9e d'un m\u00e9lange d'herbes fra\u00eeches et d'\u00e9pices.",
+            "frenchName": "M\u00e9lange de dip \u00e0 la cr\u00e8me fran\u00e7aise",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "0.6",
+            "netWeight": "0.5",
+            "unitWeight": "g"
+        }
+    ],
+    "14": [
+        {
+            "GTIN": "37900123459646",
+            "name": "French Herb and Garlic Sauce",
+            "description": "Enjoy the richness of France with our French herb and garlic sauce, featuring a blend of fragrant herbs and spices.",
+            "frenchDescription": "Savourez la richesse de la France avec notre sauce aux herbes et \u00e0 l'ail fran\u00e7aise, compos\u00e9e d'un m\u00e9lange d'herbes parfum\u00e9es et d'\u00e9pices.",
+            "frenchName": "Sauce aux herbes et \u00e0 l'ail fran\u00e7aise",
+            "brandName": "Charcuterie de France",
+            "originCountry": "France",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "15": [
+        {
+            "GTIN": "37900123459763",
+            "name": "Artisanal French Cream Cheese Spread",
+            "description": "Savor the rich flavors of France with our artisanal cream cheese spread, featuring a blend of creamy milk and herbs.",
+            "frenchDescription": "Savourez les riches saveurs de la France avec notre tartinade de fromage \u00e0 la cr\u00e8me artisanale, compos\u00e9e d'un m\u00e9lange de lait cr\u00e9meux et d'herbes.",
+            "frenchName": "Fromage \u00e0 la cr\u00e8me artisanale fran\u00e7aise pour tartiner",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "0.6",
+            "netWeight": "0.5",
+            "unitWeight": "g"
+        }
+    ],
+    "16": [
+        {
+            "GTIN": "37900123459870",
+            "name": "French Apple Compote",
+            "description": "Enjoy the sweetness of France with our French apple compote, featuring a blend of juicy fruits and spices.",
+            "frenchDescription": "Savourez la douceur de la France avec notre compote de pommes fran\u00e7aise, compos\u00e9e d'un m\u00e9lange de fruits juteux et d'\u00e9pices.",
+            "frenchName": "Compote de pommes fran\u00e7aise",
+            "brandName": "Dessert\u00e8s de France",
+            "originCountry": "France",
+            "weight": "0.7",
+            "netWeight": "0.55",
+            "unitWeight": "g"
+        }
+    ],
+    "17": [
+        {
+            "GTIN": "37900234567890",
+            "name": "Eco-Friendly Reusable Water Bottle",
+            "description": "Stay hydrated and reduce plastic waste with our eco-friendly reusable water bottle, featuring a BPA-free design.",
+            "frenchDescription": "Restez hydrat\u00e9 et r\u00e9duisez les d\u00e9chets plastiques avec notre bouteille d'eau r\u00e9utilisable respectueuse de l'environnement, dot\u00e9e d'une conception sans BPA.",
+            "frenchName": "Bouteille d'eau r\u00e9utilisable et \u00e9cologique",
+            "brandName": "HydroFlow",
+            "originCountry": "USA",
+            "weight": "0.3",
+            "netWeight": "0.2",
+            "unitWeight": "g"
+        }
+    ],
+    "18": [
+        {
+            "GTIN": "37900234567907",
+            "name": "Artisanal Handmade Soap Set",
+            "description": "Nourish your skin with our artisanal handmade soap set, featuring a blend of natural ingredients and essential oils.",
+            "frenchDescription": "Nourrissez votre peau avec notre ensemble de savons artisanaux faits \u00e0 la main, contenant un m\u00e9lange d'ingr\u00e9dients naturels et d'huiles essentielles.",
+            "frenchName": "Ensemble de savons artisanaux faits \u00e0 la main",
+            "brandName": "Purezza",
+            "originCountry": "Italy",
+            "weight": "0.6",
+            "netWeight": "0.5",
+            "unitWeight": "g"
+        }
+    ],
+    "19": [
+        {
+            "GTIN": "37900234568024",
+            "name": "French Luxury Candles Set",
+            "description": "Illuminate your space with our French luxury candles set, featuring a collection of scented candles in elegant packaging.",
+            "frenchDescription": "Illuminez votre espace avec notre coffret de bougies de luxe fran\u00e7aises, comprenant une collection de bougies parfum\u00e9es dans un emballage \u00e9l\u00e9gant.",
+            "frenchName": "Ensemble de bougies de luxe fran\u00e7aises",
+            "brandName": "Cierges de France",
+            "originCountry": "France",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "20": [
+        {
+            "GTIN": "37900234568141",
+            "name": "Eco-Friendly Bamboo Toothbrush Set",
+            "description": "Brush your teeth and reduce waste with our eco-friendly bamboo toothbrush set, featuring a set of biodegradable toothbrushes and replaceable heads.",
+            "frenchDescription": "Brossez-vous les dents et r\u00e9duisez les d\u00e9chets avec notre ensemble de brosses \u00e0 dents en bambou respectueux de l'environnement, comprenant un ensemble de brosses \u00e0 dents biod\u00e9gradables et des t\u00eates rempla\u00e7ables.",
+            "frenchName": "Ensemble de brosses \u00e0 dents en bambou \u00e9cologiques",
+            "brandName": "Teeth & Smile",
+            "originCountry": "Indonesia",
+            "weight": "0.2",
+            "netWeight": "0.1",
+            "unitWeight": "g"
+        }
+    ],
+    "21": [
+        {
+            "GTIN": "37900234568258",
+            "name": "Artisanal Handmade Jewelry Box",
+            "description": "Store your treasured jewelry in style with our artisanal handmade jewelry box, featuring a beautifully crafted wooden design.",
+            "frenchDescription": "Rangez vos pr\u00e9cieux bijoux avec style gr\u00e2ce \u00e0 notre bo\u00eete \u00e0 bijoux artisanale faite \u00e0 la main, dot\u00e9e d'un design en bois magnifiquement con\u00e7u.",
+            "frenchName": "Coffret \u00e0 bijoux artisanal fait \u00e0 la main",
+            "brandName": "JewelBox",
+            "originCountry": "Mexico",
+            "weight": "0.5",
+            "netWeight": "0.4",
+            "unitWeight": "g"
+        }
+    ],
+    "22": [
+        {
+            "GTIN": "37900234568375",
+            "name": "Luxury Essential Oil Diffuser",
+            "description": "Pamper yourself with the scent of luxury essential oils using our luxury essential oil diffuser, featuring a stylish and modern design.",
+            "frenchDescription": "Faites-vous plaisir avec le parfum des huiles essentielles de luxe en utilisant notre diffuseur d'huiles essentielles de luxe, dot\u00e9 d'un design \u00e9l\u00e9gant et moderne.",
+            "frenchName": "Diffuseur d'huiles essentielles de luxe",
+            "brandName": "Aromaflo",
+            "originCountry": "Australia",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "23": [
+        {
+            "GTIN": "37900234568492",
+            "name": "Eco-Friendly Reusable Shopping Bag Set",
+            "description": "Reduce plastic waste and go green with our eco-friendly reusable shopping bag set, featuring a set of durable cotton bags and recycled material handles.",
+            "frenchDescription": "R\u00e9duisez les d\u00e9chets plastiques et passez au vert avec notre ensemble de sacs de courses r\u00e9utilisables respectueux de l'environnement, comprenant un ensemble de sacs en coton durables et des poign\u00e9es en mat\u00e9riaux recycl\u00e9s.",
+            "frenchName": "Ensemble de sacs de courses r\u00e9utilisables et \u00e9cologiques",
+            "brandName": "GreenEarth",
+            "originCountry": "UK",
+            "weight": "0.5",
+            "netWeight": "0.4",
+            "unitWeight": "g"
+        }
+    ],
+    "24": [
+        {
+            "GTIN": "37900234568509",
+            "name": "Artisanal Handmade Home Fragrance Spray",
+            "description": "Freshen up your home with our artisanal handmade home fragrance spray, featuring a blend of natural ingredients and essential oils.",
+            "frenchDescription": "Rafra\u00eechissez votre maison avec notre spray parfum\u00e9 d'int\u00e9rieur artisanal fait \u00e0 la main, contenant un m\u00e9lange d'ingr\u00e9dients naturels et d'huiles essentielles.",
+            "frenchName": "Spray de parfum d'ambiance artisanal fait \u00e0 la main",
+            "brandName": "Purezza",
+            "originCountry": "Italy",
+            "weight": "0.2",
+            "netWeight": "0.1",
+            "unitWeight": "g"
+        }
+    ],
+    "25": [
+        {
+            "GTIN": "37900234568626",
+            "name": "French Luxury Aromatherapy Set",
+            "description": "Pamper yourself with the scent of luxury aromatherapy using our French luxury aromatherapy set, featuring a collection of scented candles and essential oils.",
+            "frenchDescription": "Faites-vous plaisir avec le parfum de l'aromath\u00e9rapie de luxe gr\u00e2ce \u00e0 notre coffret d'aromath\u00e9rapie de luxe fran\u00e7ais, comprenant une collection de bougies parfum\u00e9es et d'huiles essentielles.",
+            "frenchName": "Ensemble d'aromath\u00e9rapie de luxe fran\u00e7ais",
+            "brandName": "Cierges de France",
+            "originCountry": "France",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "26": [
+        {
+            "GTIN": "37900234568733",
+            "name": "Eco-Friendly Reusable Lunch Box Set",
+            "description": "Pack your lunch in style and reduce waste with our eco-friendly reusable lunch box set, featuring a set of durable cotton bags and recycled material handles.",
+            "frenchDescription": "Emballez votre d\u00e9jeuner avec style et r\u00e9duisez les d\u00e9chets gr\u00e2ce \u00e0 notre coffret \u00e0 lunch r\u00e9utilisable respectueux de l'environnement, comprenant un ensemble de sacs en coton durables et des poign\u00e9es en mat\u00e9riaux recycl\u00e9s.",
+            "frenchName": "Ensemble de bo\u00eetes \u00e0 lunch r\u00e9utilisables et \u00e9cologiques",
+            "brandName": "GreenEarth",
+            "originCountry": "UK",
+            "weight": "0.5",
+            "netWeight": "0.4",
+            "unitWeight": "g"
+        }
+    ],
+    "27": [
+        {
+            "GTIN": "37900234568850",
+            "name": "Artisanal Handmade Stationery Set",
+            "description": "Stay organized and creative with our artisanal handmade stationery set, featuring a collection of handmade notebooks, pens, and pencils.",
+            "frenchDescription": "Restez organis\u00e9 et cr\u00e9atif avec notre ensemble de papeterie artisanale faite \u00e0 la main, comprenant une collection de cahiers, de stylos et de crayons faits \u00e0 la main.",
+            "frenchName": "Ensemble de papeterie artisanale faite \u00e0 la main",
+            "brandName": "PaperCraft",
+            "originCountry": "USA",
+            "weight": "0.3",
+            "netWeight": "0.2",
+            "unitWeight": "g"
+        }
+    ],
+    "28": [
+        {
+            "GTIN": "37900234568967",
+            "name": "Luxury Wall Art Print Set",
+            "description": "Add some style to your walls with our luxury wall art print set, featuring a collection of high-quality prints from around the world.",
+            "frenchDescription": "Ajoutez du style \u00e0 vos murs avec notre ensemble d'impressions murales de luxe, comprenant une collection d'impressions de haute qualit\u00e9 du monde entier.",
+            "frenchName": "Ensemble d'impressions murales de luxe",
+            "brandName": "ArtScene",
+            "originCountry": "Canada",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "29": [
+        {
+            "GTIN": "37900234569084",
+            "name": "Eco-Friendly Reusable Phone Case Set",
+            "description": "Protect your phone and reduce waste with our eco-friendly reusable phone case set, featuring a set of durable cotton cases and recycled material inserts.",
+            "frenchDescription": "Prot\u00e9gez votre t\u00e9l\u00e9phone et r\u00e9duisez les d\u00e9chets avec notre ensemble de coques de t\u00e9l\u00e9phone r\u00e9utilisables respectueuses de l'environnement, comprenant un ensemble de coques en coton durables et d'inserts en mat\u00e9riaux recycl\u00e9s.",
+            "frenchName": "Ensemble de coques de t\u00e9l\u00e9phone r\u00e9utilisables et \u00e9cologiques",
+            "brandName": "GreenEarth",
+            "originCountry": "UK",
+            "weight": "0.5",
+            "netWeight": "0.4",
+            "unitWeight": "g"
+        }
+    ],
+    "30": [
+        {
+            "GTIN": "37900234569101",
+            "name": "Artisanal Handmade Bookmarks Set",
+            "description": "Mark your favorite pages in style with our artisanal handmade bookmarks set, featuring a collection of handmade bookmarks and book lights.",
+            "frenchDescription": "Marquez vos pages pr\u00e9f\u00e9r\u00e9es avec style avec notre ensemble de marque-pages artisanaux faits \u00e0 la main, comprenant une collection de marque-pages et de lampes de lecture faits \u00e0 la main.",
+            "frenchName": "Ensemble de marque-pages artisanaux faits \u00e0 la main",
+            "brandName": "PageTurner",
+            "originCountry": "Mexico",
+            "weight": "0.2",
+            "netWeight": "0.1",
+            "unitWeight": "g"
+        }
+    ],
+    "31": [
+        {
+            "GTIN": "37900234569218",
+            "name": "French Luxury Desk Accessory Set",
+            "description": "Elevate your workspace with our French luxury desk accessory set, featuring a collection of scented candles, essential oils, and handmade stationery.",
+            "frenchDescription": "Am\u00e9liorez votre espace de travail avec notre ensemble d'accessoires de bureau de luxe fran\u00e7ais, comprenant une collection de bougies parfum\u00e9es, d'huiles essentielles et de papeterie faite \u00e0 la main.",
+            "frenchName": "Ensemble d'accessoires de bureau de luxe fran\u00e7ais",
+            "brandName": "Cierges de France",
+            "originCountry": "France",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "32": [
+        {
+            "GTIN": "37900234569335",
+            "name": "Eco-Friendly Reusable Travel Bag Set",
+            "description": "Travel in style and reduce waste with our eco-friendly reusable travel bag set, featuring a set of durable cotton bags and recycled material handles.",
+            "frenchDescription": "Voyagez avec style et r\u00e9duisez les d\u00e9chets avec notre ensemble de sacs de voyage r\u00e9utilisables respectueux de l'environnement, comprenant un ensemble de sacs en coton durables et de poign\u00e9es en mat\u00e9riaux recycl\u00e9s.",
+            "frenchName": "Ensemble de sacs de voyage r\u00e9utilisables et \u00e9cologiques",
+            "brandName": "GreenEarth",
+            "originCountry": "UK",
+            "weight": "0.5",
+            "netWeight": "0.4",
+            "unitWeight": "g"
+        }
+    ],
+    "33": [
+        {
+            "GTIN": "37900234569452",
+            "name": "Artisanal Handmade Wall Hanging Set",
+            "description": "Add some handmade charm to your walls with our artisanal handmade wall hanging set, featuring a collection of hand-painted ceramics and natural fibers.",
+            "frenchDescription": "Ajoutez un peu de charme artisanal \u00e0 vos murs avec notre ensemble de tentures murales artisanales faites \u00e0 la main, comprenant une collection de c\u00e9ramiques peintes \u00e0 la main et de fibres naturelles.",
+            "frenchName": "Ensemble de tentures murales artisanales faites \u00e0 la main",
+            "brandName": "WallDecor",
+            "originCountry": "Italy",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "34": [
+        {
+            "GTIN": "37900123458228",
+            "name": "French Herb and Lemon Infused Olive Oil",
+            "description": "Add a touch of freshness to your dishes with our French herb and lemon infused olive oil, featuring a blend of fragrant herbs and citrus.",
+            "frenchDescription": "Ajoutez une touche de fra\u00eecheur \u00e0 vos plats avec notre huile d'olive infus\u00e9e aux herbes fran\u00e7aises et au citron, avec un m\u00e9lange d'herbes parfum\u00e9es et d'agrumes.",
+            "frenchName": "Huile d'olive infus\u00e9e aux herbes et au citron fran\u00e7ais",
+            "brandName": "Huiles de France",
+            "originCountry": "France",
+            "weight": "0.5",
+            "netWeight": "0.4",
+            "unitWeight": "g"
+        }
+    ],
+    "35": [
+        {
+            "GTIN": "37900123458345",
+            "name": "Artisanal French Quiche Lorraine Tartlets",
+            "description": "Indulge in the rich flavors of France with our artisanal quiche Lorraine tartlets, featuring a blend of creamy eggs and cheese.",
+            "frenchDescription": "Laissez-vous tenter par les riches saveurs de la France avec nos tartelettes artisanales \u00e0 la quiche lorraine, compos\u00e9es d'un m\u00e9lange d'\u0153ufs cr\u00e9meux et de fromage.",
+            "frenchName": "Tartelettes de quiche lorraine artisanale fran\u00e7aise",
+            "brandName": "P\u00e2tisseries Artisanales",
+            "originCountry": "France",
+            "weight": "1.2",
+            "netWeight": "0.8",
+            "unitWeight": "g"
+        }
+    ],
+    "36": [
+        {
+            "GTIN": "37900123458462",
+            "name": "French Lavender and Honey Body Scrub",
+            "description": "Exfoliate your skin with our French lavender and honey body scrub, featuring a soothing blend of fragrant herbs and citrus.",
+            "frenchDescription": "Exfoliez votre peau avec notre gommage corporel \u00e0 la lavande et au miel de France, compos\u00e9 d'un m\u00e9lange apaisant d'herbes parfum\u00e9es et d'agrumes.",
+            "frenchName": "Exfoliant corporel \u00e0 la lavande et au miel fran\u00e7ais",
+            "brandName": "Soins Corporels de France",
+            "originCountry": "France",
+            "weight": "0.6",
+            "netWeight": "0.5",
+            "unitWeight": "g"
+        }
+    ],
+    "37": [
+        {
+            "GTIN": "37900123458579",
+            "name": "French Apple and Cinnamon Crumble Mix",
+            "description": "Warm up with our French apple and cinnamon crumble mix, featuring a blend of fresh spices perfect for a comforting dessert.",
+            "frenchDescription": "R\u00e9chauffez-vous avec notre m\u00e9lange de crumble aux pommes et \u00e0 la cannelle de France, compos\u00e9 d'un m\u00e9lange d'\u00e9pices fra\u00eeches, parfait pour un dessert r\u00e9confortant.",
+            "frenchName": "M\u00e9lange de crumble aux pommes et au cannelle fran\u00e7ais",
+            "brandName": "Dessert\u00e8s de France",
+            "originCountry": "France",
+            "weight": "0.8",
+            "netWeight": "0.6",
+            "unitWeight": "g"
+        }
+    ],
+    "38": [
+        {
+            "GTIN": "37900123458696",
+            "name": "Artisanal French Creamy Garlic Dip",
+            "description": "Savor the rich flavors of France with our artisanal creamy garlic dip, featuring a blend of fresh herbs and spices.",
+            "frenchDescription": "Savourez les riches saveurs de la France avec notre trempette cr\u00e9meuse \u00e0 l'ail artisanale, compos\u00e9e d'un m\u00e9lange d'herbes fra\u00eeches et d'\u00e9pices.",
+            "frenchName": "M\u00e9lange de dip aux aromes et \u00e0 la cr\u00e8me fran\u00e7aise",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "0.6",
+            "netWeight": "0.5",
+            "unitWeight": "g"
+        }
+    ],
+    "39": [
+        {
+            "GTIN": "37900123458713",
+            "name": "French Berry Jam",
+            "description": "Enjoy the sweetness of France with our French berry jam, featuring a blend of juicy fruits.",
+            "frenchDescription": "Appr\u00e9ciez la douceur de la France avec notre confiture de baies fran\u00e7aises, compos\u00e9e d'un m\u00e9lange de fruits juteux.",
+            "frenchName": "Confiture de fruits rouges fran\u00e7ais",
+            "brandName": "Jams de France",
+            "originCountry": "France",
+            "weight": "0.7",
+            "netWeight": "0.55",
+            "unitWeight": "g"
+        }
+    ],
+    "40": [
+        {
+            "GTIN": "37900123458830",
+            "name": "Artisanal French Feta Cheese",
+            "description": "Savor the rich flavors of Greece in France with our artisanal feta cheese, featuring a blend of creamy milk and herbs.",
+            "frenchDescription": "Savourez les riches saveurs de la Gr\u00e8ce en France avec notre fromage feta artisanal, compos\u00e9 d'un m\u00e9lange de lait cr\u00e9meux et d'herbes.",
+            "frenchName": "Fromage feta artisanale fran\u00e7ais",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "41": [
+        {
+            "GTIN": "37900123458947",
+            "name": "French Herb and Garlic Sausages",
+            "description": "Indulge in the rich flavors of France with our French herb and garlic sausages, featuring a blend of fragrant herbs and spices.",
+            "frenchDescription": "Laissez-vous tenter par les riches saveurs de la France avec nos saucisses \u00e0 l'ail et aux fines herbes fran\u00e7aises, compos\u00e9es d'un m\u00e9lange d'herbes parfum\u00e9es et d'\u00e9pices.",
+            "frenchName": "Saucisses aux herbes et \u00e0 l'ail fran\u00e7ais",
+            "brandName": "Charcuterie de France",
+            "originCountry": "France",
+            "weight": "1.2",
+            "netWeight": "0.9",
+            "unitWeight": "g"
+        }
+    ],
+    "42": [
+        {
+            "GTIN": "37900123459064",
+            "name": "French Apple Tart",
+            "description": "Enjoy the sweetness of France with our French apple tart, featuring a blend of juicy fruits and creamy pastry.",
+            "frenchDescription": "Appr\u00e9ciez la douceur de la France avec notre tarte aux pommes fran\u00e7aise, compos\u00e9e d'un m\u00e9lange de fruits juteux et de p\u00e2tisserie cr\u00e9meuse.",
+            "frenchName": "Tarte tatin aux pommes fran\u00e7aise",
+            "brandName": "P\u00e2tisseries Artisanales",
+            "originCountry": "France",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "43": [
+        {
+            "GTIN": "37900123459171",
+            "name": "Artisanal French Cream Cheese",
+            "description": "Savor the rich flavors of France with our artisanal cream cheese, featuring a blend of creamy milk and herbs.",
+            "frenchDescription": "Savourez les riches saveurs de la France avec notre fromage \u00e0 la cr\u00e8me artisanal, compos\u00e9 d'un m\u00e9lange de lait cr\u00e9meux et d'herbes.",
+            "frenchName": "Fromage \u00e0 la cr\u00e8me artisanale fran\u00e7ais",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "0.6",
+            "netWeight": "0.5",
+            "unitWeight": "g"
+        }
+    ],
+    "44": [
+        {
+            "GTIN": "37900123459288",
+            "name": "French Herb and Lemon Marmalade",
+            "description": "Enjoy the sweetness of France with our French herb and lemon marmalade, featuring a blend of fragrant herbs and citrus.",
+            "frenchDescription": "Appr\u00e9ciez la douceur de la France avec notre marmelade aux fines herbes et au citron fran\u00e7aise, compos\u00e9e d'un m\u00e9lange d'herbes parfum\u00e9es et d'agrumes.",
+            "frenchName": "Marmelade aux herbes et au citron fran\u00e7ais",
+            "brandName": "Jams de France",
+            "originCountry": "France",
+            "weight": "0.7",
+            "netWeight": "0.55",
+            "unitWeight": "g"
+        }
+    ],
+    "45": [
+        {
+            "GTIN": "37900123459395",
+            "name": "Artisanal French Goat Cheese",
+            "description": "Savor the rich flavors of France with our artisanal goat cheese, featuring a blend of creamy milk and herbs.",
+            "frenchDescription": "Savourez les riches saveurs de la France avec notre fromage de ch\u00e8vre artisanal, compos\u00e9 d'un m\u00e9lange de lait cr\u00e9meux et d'herbes.",
+            "frenchName": "Fromage ch\u00e8vre artisanale fran\u00e7ais",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "46": [
+        {
+            "GTIN": "37900123459412",
+            "name": "French Apple Cider",
+            "description": "Enjoy the sweetness of France with our French apple cider, featuring a blend of juicy fruits and spices.",
+            "frenchDescription": "Appr\u00e9ciez la douceur de la France avec notre cidre de pomme fran\u00e7ais, compos\u00e9 d'un m\u00e9lange de fruits juteux et d'\u00e9pices.",
+            "frenchName": "Cidre aux pommes fran\u00e7ais",
+            "brandName": "Bieres de France",
+            "originCountry": "France",
+            "weight": "0.8",
+            "netWeight": "0.6",
+            "unitWeight": "g"
+        }
+    ],
+    "47": [
+        {
+            "GTIN": "37900123459529",
+            "name": "Artisanal French Creamy Cheese Dip",
+            "description": "Savor the rich flavors of France with our artisanal creamy cheese dip, featuring a blend of fresh herbs and spices.",
+            "frenchDescription": "Savourez les riches saveurs de la France avec notre trempette au fromage cr\u00e9meuse artisanale, compos\u00e9e d'un m\u00e9lange d'herbes fra\u00eeches et d'\u00e9pices.",
+            "frenchName": "M\u00e9lange de dip \u00e0 la cr\u00e8me fran\u00e7aise",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "0.6",
+            "netWeight": "0.5",
+            "unitWeight": "g"
+        }
+    ],
+    "48": [
+        {
+            "GTIN": "37900123459646",
+            "name": "French Herb and Garlic Sauce",
+            "description": "Enjoy the richness of France with our French herb and garlic sauce, featuring a blend of fragrant herbs and spices.",
+            "frenchDescription": "Appr\u00e9ciez la richesse de la France avec notre sauce aux fines herbes et \u00e0 l'ail fran\u00e7aise, compos\u00e9e d'un m\u00e9lange d'herbes parfum\u00e9es et d'\u00e9pices.",
+            "frenchName": "Sauce aux herbes et \u00e0 l'ail fran\u00e7aise",
+            "brandName": "Charcuterie de France",
+            "originCountry": "France",
+            "weight": "1",
+            "netWeight": "0.85",
+            "unitWeight": "g"
+        }
+    ],
+    "49": [
+        {
+            "GTIN": "37900123459763",
+            "name": "Artisanal French Cream Cheese Spread",
+            "description": "Savor the rich flavors of France with our artisanal cream cheese spread, featuring a blend of creamy milk and herbs.",
+            "frenchDescription": "Savourez les riches saveurs de la France avec notre fromage \u00e0 la cr\u00e8me artisanal, compos\u00e9 d'un m\u00e9lange de lait cr\u00e9meux et d'herbes.",
+            "frenchName": "Fromage \u00e0 la cr\u00e8me artisanale fran\u00e7aise pour tartiner",
+            "brandName": "Fromages Artisanales",
+            "originCountry": "France",
+            "weight": "0.6",
+            "netWeight": "0.5",
+            "unitWeight": "g"
+        }
+    ],
+    "50": [
+        {
+            "GTIN": "37900123459870",
+            "name": "French Apple Compote",
+            "description": "Enjoy the sweetness of France with our French apple compote, featuring a blend of juicy fruits and spices.",
+            "frenchDescription": "Appr\u00e9ciez la douceur de la France avec notre compote de pommes fran\u00e7aise, compos\u00e9e d'un m\u00e9lange de fruits juteux et d'\u00e9pices.",
+            "frenchName": "Compote de pommes fran\u00e7aise",
+            "brandName": "Dessert\u00e8s de France",
+            "originCountry": "France",
+            "weight": "0.7",
+            "netWeight": "0.55",
+            "unitWeight": "g"
+        }
+    ]
+}
