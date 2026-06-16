@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <input id="name" type="text" placeholder="Nome">
+        <input id="email" type="email" placeholder="Email">
+        <input id="pass" type="password" placeholder="Senha(pelomenos uma letra maiúscula ou minúscula e um caractere especial)" maxlength="8">
+        <button type="reset">Limpar</button>
+        <button type="button" id="inscrever">Inscrever-se</button>
+        <p id="erro"></p>
+    </form>
+    <script>
+        let name = document.getElementById("name")
+        let email = document.getElementById("email")
+        let pass = document.getElementById("pass")
+        let erro = document.getElementById("erro")
+        document.getElementById("inscrever").addEventListener("click", () => {
+            if(!name.value){ erro.innerHTML = "Preencha o nome"; document.getElementById("inscrever").setAttribute("disabled", true)}
+            else if(!email.value){ erro.innerHTML = "Preencha o email"; document.getElementById("inscrever").setAttribute("disabled", true) }
+            else if(!pass.value){ erro.innerHTML = "Preencha a senha"; document.getElementById("inscrever").setAttribute("disabled", true) }
+            else {erro.innerHTML = "Tudo Certo"}
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+details{
+    background-color: rgb(0, 132, 255);
+    padding: 10px;
+    color: white;
+
+    &:open{
+        background-color: rgb(0, 89, 255);
+        height: 100%;
+    }
+}
+
+/* #details1:open + #details2[closed], #details1:open + #details3[closed]{
+    
+} */
